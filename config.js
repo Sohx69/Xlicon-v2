@@ -22,8 +22,8 @@ global.OwnerNumber = ["918984257480","918984257480"];   //If you want singal num
 global.ownertag = ["918984257480"];
 global.OwnerName = "𝐒𝚯𝚮𝐀𝚴";
 global.BotName = "SHIKIMORI";
-global.packname = "🍁";                             //Do not change.
-global.author = "𝐒𝚯𝚮𝚫𝚴";                               //Do not change.
+global.packname = "𝐒𝚯𝚮𝚫𝚴";                             //Do not change.
+global.author = "🍁";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
 
